@@ -1,5 +1,5 @@
 import java.io.*;
-public class one {
+public class Pro1 {
 	private static double f(double x){
 		return x * x * x - 10 * x + 23;
 	}
